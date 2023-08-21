@@ -1,5 +1,11 @@
 # Deelance-Testnet
 
+## Contribute to DeeLance
+- Submit improve Documentation:
+Feel free to submit a pull request (PR) if you come across any errors or identify areas that could be improved.
+- Share Improvement Proposal to DeeLance: 
+The primary aim is to gather technical insights.
+
 ## What is the purpose of a Testnet?
 A testnet (short for "test network") is an environment in which developers can test and experiment with new features and software without affecting the main network (mainnet). Testnets are parallel systems with their own native cryptocurrencies, which hold no real-world value, allowing for risk-free experimentation.
 The validators on the testnet are mainly from the development team.
